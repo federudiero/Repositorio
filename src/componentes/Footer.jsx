@@ -9,13 +9,7 @@ function Footer() {
       <>
       
     <div className='footer'>
-      <div className='divRedesSociales'>
-            <h3>Links</h3>
-            <a href="">About Me</a>
-            <a href="#Habilidades">My Skills</a>
-            <a href="#Certificados">Certificados</a>
-            <a href="#proyectos">Proyectos</a>
-        </div>
+      
         <div className='divContacto'>
             <h3>Contacto</h3>
             <ul>
@@ -26,10 +20,10 @@ function Footer() {
         </div>
         <div className='divRedesSociales'>
             <h3>redes sociales</h3>
-            <FontAwesomeIcon icon={faFacebook} className='iconfa' />
-        <FontAwesomeIcon icon={faInstagram } className='iconin' />
-        <FontAwesomeIcon icon={faWhatsapp} className='iconwh' />
-        <FontAwesomeIcon icon={faLinkedin}  className='iconli'/>
+            <a href="https://www.facebook.com/fede.rudiero.1/"><FontAwesomeIcon icon={faFacebook} className='iconfa' /></a>
+        <a href="https://www.instagram.com/federudiero/?hl=es-la"><FontAwesomeIcon icon={faInstagram } className='iconin' /></a>
+        <a href="https://wa.me/message/MJCIY3UU4SYQD1"><FontAwesomeIcon icon={faWhatsapp} className='iconwh' /></a>
+        <a href="https://www.linkedin.com/in/federico-rudiero-722243162"><FontAwesomeIcon icon={faLinkedin}  className='iconli'/></a>
         </div>
         
 
