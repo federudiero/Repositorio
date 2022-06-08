@@ -1,0 +1,130 @@
+.divPortada{
+    background-color: black;
+    display: grid;
+    height: 720px;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+justify-content: center;
+    align-items: center
+    
+    
+    
+
+    
+}
+.divContenedor_portada{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+.Saludo-Nombre{
+    color: rgb(63, 62, 62);
+    font-size: 50px;
+}
+
+.imgPortada{
+    
+     margin: auto;
+    width: 313px;
+    height: 426px;
+    clip-path: circle(71.8% at 50% 3%);
+    transition: 1s;
+    
+}
+.imgPortada:hover{
+    
+    margin: auto;
+    width: 313px;
+    height: 426px;
+   clip-path: circle(95.8% at 50% 3%);
+   transition: 1s;
+   
+  
+   
+}
+
+.h1Portada{
+    font-size: 40px;
+    color: rgb(62, 214, 216);
+    
+    
+    
+}
+.aboutMe{
+    text-decoration: none;
+    background-color: rgb(146, 146, 146);
+    color: rgb(0, 0, 0);
+    border-radius: 10%;
+    font-size: 15px;
+    padding: 12px;
+    transition: 0.8s;
+    
+}
+.aboutMe:hover{
+    text-decoration: none;
+    background-color: rgb(146, 146, 146);
+    color: rgb(0, 0, 0);
+    border-radius: 30%;
+    transition: 0.8s;
+  
+}
+.Redes-Container{
+    display: flex;
+    height: 50px;
+    width: 130px;
+    
+    justify-content: space-between;
+    align-items: center;
+
+}
+.iconfa{
+    height: 30px;
+    width: 30px;
+    color: rgb(0, 0, 248);
+    transition: 1s;
+
+}
+.iconin{
+    height: 30px;
+    width: 30px;
+    color: #3f729b;
+    transition: 1s;
+}
+.iconwh{
+    height: 30px;
+    width: 30px;
+    color:  #128c7e;
+    transition: 1s;
+}
+.iconli{
+    height: 30px;
+    width: 30px;
+    color: #0e76a8;
+    transition: 1s;
+}
+
+
+.iconfa:hover{
+    height: 40px;
+    width: 40px;
+    transition: 1s;
+}
+.iconin:hover{
+    height: 40px;
+    width: 40px;
+    transition: 1s;
+}
+.iconwh:hover{
+    height: 40px;
+    width: 40px;
+    transition: 1s;
+}
+.iconli:hover{
+    height: 40px;
+    width: 40px;
+    transition: 1s;
+}

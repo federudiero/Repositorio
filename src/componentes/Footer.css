@@ -1,0 +1,83 @@
+
+.footer{
+    height: 200px;
+
+    background-color:  rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: start;
+
+ gap :5px;
+}
+.divContacto{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+}
+.divRedesSociales{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+    gap: 10px;
+}
+.LI{
+    list-style: none;
+    text-align: left;
+}
+
+.iconfa{
+    height: 20px;
+    width: 20px;
+    color: rgb(0, 0, 248);
+    transition: 1s;
+
+}
+.iconin{
+    height: 20px;
+    width: 20px;
+    color: #3f729b;
+    transition: 1s;
+}
+.iconwh{
+    height: 20px;
+    width: 20px;
+    color:  #128c7e;
+    transition: 1s;
+}
+.iconli{
+    height: 20px;
+    width: 20px;
+    color: #0e76a8;
+    transition: 1s;
+}
+
+
+.iconfa:hover{
+    height: 25px;
+    width: 25px;
+    transition: 1s;
+}
+.iconin:hover{
+    height: 30px;
+    width: 30px;
+    transition: 1s;
+}
+.iconwh:hover{
+    height: 30px;
+    width: 30px;
+    transition: 1s;
+}
+.iconli:hover{
+    height: 30px;
+    width: 30px;
+    transition: 1s;
+}
