@@ -12,7 +12,7 @@ function Certificados() {
       
         <div className='divHijoCertificado'>
 
-        <h2 className='h2Text'>Desarrollo Web</h2>
+        <h2 className='h2Text'>Web development</h2>
         <a href="https://drive.google.com/file/d/1Zq9XBNw5Ez2Ifuq8SRZ02eGHjLsjh7YM/view?usp=sharing"><img className='img' src={desarrolloWeb} alt="" /></a>
 
         </div>

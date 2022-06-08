@@ -11,7 +11,7 @@ function Footer() {
     <div className='footer'>
       
         <div className='divContacto'>
-            <h3>Contacto</h3>
+            <h3>Contact</h3>
             <ul>
             <li className='LI'>Cordoba , Argentina .</li>
             <li className='LI'>cel: 3518120950</li>
@@ -19,7 +19,7 @@ function Footer() {
             </ul>
         </div>
         <div className='divRedesSociales'>
-            <h3>redes sociales</h3>
+            <h3>social networks</h3>
             <a href="https://www.facebook.com/fede.rudiero.1/"><FontAwesomeIcon icon={faFacebook} className='iconfa' /></a>
         <a href="https://www.instagram.com/federudiero/?hl=es-la"><FontAwesomeIcon icon={faInstagram } className='iconin' /></a>
         <a href="https://wa.me/message/MJCIY3UU4SYQD1"><FontAwesomeIcon icon={faWhatsapp} className='iconwh' /></a>

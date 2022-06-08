@@ -17,7 +17,7 @@
     padding: 60px;
   background-color: rgb(0, 0, 0);
   gap: 20px;
-  height: 600px;
+   height:   600px;
 }
 
 
@@ -42,4 +42,32 @@
 .divHijoCertificado{
    
     margin-bottom: 70px;
+}
+
+
+@media (min-width: 200px) and (max-width: 900px){
+
+    .divContenedor{
+    
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+margin: auto;
+
+      background-color: rgb(0, 0, 0);
+      gap: 20px;
+     height:    1000px;
+    }
+
+    .img{
+        height: 200px;
+        width: 250px;
+        cursor: pointer;
+    
+       
+    }
+
+
 }

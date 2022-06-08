@@ -128,3 +128,26 @@ justify-content: center;
     width: 40px;
     transition: 1s;
 }
+
+@media (min-width: 200px) and (max-width: 600px){
+
+   
+    .divPortada{
+        background-color: black;
+        
+        height: 720px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    justify-content: center;
+        align-items: center
+        
+        
+        
+    
+        
+    }
+
+}
