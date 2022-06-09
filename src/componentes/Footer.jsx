@@ -7,8 +7,7 @@ function Footer() {
   
   return (
       <>
-      
-    <div className='footer'>
+      <div>    <div className='footer'>
       
         <div className='divContacto'>
             <h3>Contact</h3>
@@ -28,9 +27,12 @@ function Footer() {
         
 
         
-        
     </div>
-    
+    <div className='divCopyright'>
+        <h3 className='pCopyright'>Copyright © Federico Rudiero</h3>
+        </div>
+    </div>
+
     </>
   )
 }
