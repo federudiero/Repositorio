@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage" :"federudiero.github.io/portfolio",
+  "homepage" :"http://federudiero.github.io/portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -20,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeplay":"npm run biuld",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
