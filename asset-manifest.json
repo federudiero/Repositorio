@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7e35dba4.css",
+    "main.js": "/portfolio/static/js/main.9198fd57.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Captura de pantalla 2022-06-08 180104.png": "/portfolio/static/media/Captura de pantalla 2022-06-08 180104.0589d7e92c1916cc3332.png",
+    "static/media/Captura de pantalla 2022-06-08 180215.png": "/portfolio/static/media/Captura de pantalla 2022-06-08 180215.a26f1dd2b265f9b73ebe.png",
+    "static/media/desarrolloWeb.png": "/portfolio/static/media/desarrolloWeb.516d97278413b713a411.png",
+    "static/media/JavaScript.png": "/portfolio/static/media/JavaScript.9ebc0b5489926f327ef9.png",
+    "static/media/imgh.jpeg": "/portfolio/static/media/imgh.7206c467476b1918e2a4.jpeg",
+    "static/media/Captura de pantalla 2022-06-08 180620.png": "/portfolio/static/media/Captura de pantalla 2022-06-08 180620.5fbf92795f7b60b79b31.png",
+    "static/media/FedericoRudiero.jpeg": "/portfolio/static/media/FedericoRudiero.d18940d20f0e482dbcf5.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.7e35dba4.css.map": "/portfolio/static/css/main.7e35dba4.css.map",
+    "main.9198fd57.js.map": "/portfolio/static/js/main.9198fd57.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e35dba4.css",
+    "static/js/main.9198fd57.js"
+  ]
+}
