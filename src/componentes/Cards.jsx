@@ -9,7 +9,7 @@ import image3 from '../imagenes/Captura de pantalla 2022-06-08 180215.png';
 const cards = [
   {
     id: 1,
-    title: "Final Project Web Development ",
+    title: "Final JavaScript Project ",
     image: image1,
     url: "https://federudiero.github.io/proyecto-final/",
     text: 'final project of the Web Development Course .First design for the RJA ARIDOS ',
@@ -23,7 +23,7 @@ const cards = [
   },
   {
     id: 3,
-    title: "Final JavaScript Project",
+    title: "Final Project Web Development",
     image: image3,
     url: "https://federudiero.github.io/proyecto-final-js/",
     text: 'final project of the website of the company RJA ARIDOS, built in JavaScript',
