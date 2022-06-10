@@ -18,7 +18,7 @@ const cards = [
     id: 2,
     title: "Portfolio",
     image: image2,
-    url: "https://federudiero.github.io/Repositorio/",
+    url: "https://federudiero.github.io/portfolio/",
     text: 'This is my personal website, wich contains a portfolio and resume.',
   },
   {
