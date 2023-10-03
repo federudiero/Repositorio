@@ -24,6 +24,21 @@ function Certificados() {
         <a href="https://drive.google.com/file/d/1HTE3KIf53conJwqkjjxgD3GRjkM7Kp0H/view?usp=sharing"><img className='img' src={javaScript} alt="" /></a>
 
         </div>
+
+        <div className='divHijoCertificado'>
+
+<h2 className='h2Text'>Backend</h2>
+<a href="https://www.coderhouse.com/certificados/63f40b582a3624000edd4222?lang=es"><img className='img' alt="" /></a>
+
+</div>
+
+
+<div className='divHijoCertificado'>
+
+<h2 className='h2Text'>React</h2>
+<a href="https://www.coderhouse.com/certificados/62d579f4979e470019ce7319?lang=es"><img className='img'  alt="" /></a>
+
+</div>
         </div>
     </>
   )
